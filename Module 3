@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSD 340 Web Development with HTML and CSS</title>
+    <link rel="stylesheet" href="FungModule3.2.css">
+</head>
+
+<body>
+    <div id="container">
+        <h1>Assignment 3.3: Build a Web Page Exercise - Part 3</h1>
+        <div id="content">
+            <!--Left div-->
+            <div id="left">
+                <h3>Top 10 Favorite Books</h3>
+                <ol>
+                    <li>I Am The Cheese</li>
+                    <li>Harry Potter series</li>
+                    <li>The Hunger Games</li>
+                    <li>The Great Gatsby</li>
+                    <li>Game of Thrones</li>
+                    <li>Star Wars: Inquisitor</li>
+                    <li>Star Wars: Revenge Of The Sith novelization</li>
+                    <li>Star Wars Darth Bane: Path of Destruction</li>
+                    <li>Nineteen Eighty-Four</li>
+                    <li>Star Wars: Darth Plagueis</li>
+                </ol>
+            </div>
+
+            <!--Right div-->
+            <div id="right">
+                <h3>5 Things I've Learned Since the Course Started</h3>
+                <ul>
+                    <li>How to link CSS code to an HTML file</li>
+                    <li>Proper formatting for HTML and CSS files</li>
+                    <li>Uploading files and projects to Github</li>
+                    <li>That Github allows for HTML editing in the README section</li>
+                    <li>Design aspects that work alongside CSS</li>
+                </ul>
+            </div>
+
+            <!--Closing div that returns user to landing page-->
+            <div id="footer">
+                <a href="index.html">Return to Landing Page</a>
+            </div>
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>
