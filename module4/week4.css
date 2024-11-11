@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+.grid-container {
+    display:grid;
+    grid-template-columns:auto auto auto;
+}
+
+#image-gallery {
+    margin-top: 10%;
+}
+img {
+    width: 400px;
+    height: 350px;
+}
+.image-title {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+.grid-item {
+    border-style: solid;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+h1, h3, figcaption {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+#last {
+    width: 100%;
+    margin-top: 20%;
+    margin-bottom: 20px;
+}
+
+a:link {
+    float: right;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration:underline;
+}
