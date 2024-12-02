@@ -1,0 +1,41 @@
+body{
+
+box-sizing: border-box;
+
+text-align: center;
+
+}
+
+h1{
+
+color: cadetblue;
+
+font-size: 25px;
+
+}
+
+h2{
+
+color: cadetblue;
+
+font-size: 35px;
+
+}
+
+p{
+
+text-decoration: underline;
+
+}
+
+.favorite{
+
+color: brown;
+
+font-size: 30px;
+
+text-decoration: underline;
+
+font-weight: bold;
+
+}
